@@ -15,6 +15,7 @@ function counterReducer(state=initialState,action){
 
         default:
             return  state
+            
     }
 }
 
